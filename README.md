@@ -1,1 +1,1 @@
-# demo-1
+print("Hello, World!")
